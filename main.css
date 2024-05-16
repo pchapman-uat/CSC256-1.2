@@ -7,3 +7,7 @@ h1, h2 {
     border-radius: 20px;
     width: fit-content;
 }
+.pfp{
+    width: 200px;
+    border-radius: 100%;
+}
