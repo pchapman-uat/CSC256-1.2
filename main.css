@@ -18,7 +18,21 @@ header{
     width: 150px;
     border-radius: 100%;
 }
-
-.skills{
-
+.classes > .semester-title{
+    margin-left: 4%;
+}
+.classes > .semester {
+    margin-left: 8%;
+}
+.skills {
+    margin-left: 4%;
+}
+.other-section {
+    width: 50%;
+}
+main{
+    padding-left: 3%;
+    padding-right: 3%;
+    display: flex;
+    justify-content: space-between;
 }
