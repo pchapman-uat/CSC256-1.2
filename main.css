@@ -26,13 +26,16 @@ header{
 }
 .skills {
     margin-left: 4%;
+    padding-right: 10px;
 }
-.other-section {
+.classes-section {
     width: 50%;
+}
+.semester {
+    padding-right: 10px;
 }
 main{
     padding-left: 3%;
     padding-right: 3%;
     display: flex;
-    justify-content: space-between;
 }
